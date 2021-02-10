@@ -18,6 +18,6 @@ This is the place where I break things and have fun 👍👍
 [<img align="left" alt="diegopuma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="diegopuma | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
-
+</br>
 ### 📊 GitHub Stats:
 ![diegopumacode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegopumacode&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
