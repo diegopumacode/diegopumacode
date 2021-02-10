@@ -17,3 +17,6 @@ This is the place where I break things and have fun 👍👍
 [linkedin]: https://www.linkedin.com/in/diegopumapaco/
 [twitter]: https://twitter.com/DiegoP38940444
 [github]: https://github.com/diegopumacode
+
+### 📊 GitHub Stats:
+![Vibhor Chaudhary's github stats](https://github-readme-stats.vercel.app/api?username=diegopumacode&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
