@@ -4,7 +4,7 @@ This is the place where I break things and have fun 👍👍
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on more open source projects
-- 💬 Ask me anything [here] (https://github.com/diegopumacode/diegopumacode/issues) related to <b>Next Js, Angular, Anime js, Firebase, React Native, </b>
+- 💬 Ask me anything [here](https://github.com/diegopumacode/diegopumacode/issues) related to <b>Next Js, Angular, Anime js, Firebase, React Native, </b>
 - 📫 How to reach me: [@diegopumapaco][linkedin] or say 👋 on Email at [Diego Puma](mailto:diegopumacode@gmail.com)
 - ⚡ Fun fact: 🎮 & 🚲
 
