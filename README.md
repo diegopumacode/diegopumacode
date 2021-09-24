@@ -8,6 +8,7 @@ This is the place where I break things and have fun 👍👍
 - 💬 Ask me anything [here](https://github.com/diegopumacode/diegopumacode/issues) related to <b>Next Js, Angular, Anime js, Firebase, React Native, </b>
 - 📫 How to reach me: Email at [Diego Puma](mailto:diegopumacode@gmail.com)
 - ⚡ Fun fact: 🎮 & 🚲
+- blog: https://diegopuma.com
 
 ### Connect with me:
 
@@ -23,4 +24,3 @@ This is the place where I break things and have fun 👍👍
 [linkedin]: https://www.linkedin.com/in/diegopumapaco/
 [twitter]: https://twitter.com/DiegoP38940444
 [github]: https://github.com/diegopumacode
-blog: https://diegopuma.com
