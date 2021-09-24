@@ -24,3 +24,4 @@ This is the place where I break things and have fun 👍👍
 [linkedin]: https://www.linkedin.com/in/diegopumapaco/
 [twitter]: https://twitter.com/DiegoP38940444
 [github]: https://github.com/diegopumacode
+[blog]: https://diegopuma.com
